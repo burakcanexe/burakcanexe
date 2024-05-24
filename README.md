@@ -7,7 +7,7 @@ Front-End Developer
 * 🌍  I'm based in İstanbul
 * 🖥️  See my portfolio at [My page](http://burakcan.dev)
 * ✉️  You can contact me at [burakcanexe@gmail.com](mailto:burakcanexe@gmail.com)
-* 🧠  I'm learning Node.JS, React, React-Native
+* 🧠  I'm learning Web and Mobile Technologies
 
 ### Skills
 
